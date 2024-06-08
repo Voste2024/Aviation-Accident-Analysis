@@ -72,3 +72,6 @@ The head of the new aviation division should purchase:
 3. Aircrafts with engine type of Turbo Shaft, Turbo Fan, Turbo Prop
  
  # Repository Guide
+
+The images from EDA can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/tree/main/Images'>images</a>
+
