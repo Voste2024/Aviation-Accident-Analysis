@@ -79,4 +79,4 @@ The images from EDA can be found here: <a href='https://github.com/Voste2024/Avi
 
 The data used for the project can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/AviationData.csv'>data</a>
 
-The presentation for this project can be found here:<a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/Aviation%20Accident%20Analysis.pdf'>slides pdf</a> and the video presentation is here: 
+The presentation for this project can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/Aviation%20Accident%20Analysis.pdf'>slides pdf</a> and the video presentation is here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/Aviation%20Accident%20Analysis.mp4'>slides videp</a>
