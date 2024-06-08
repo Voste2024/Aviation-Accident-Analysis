@@ -75,6 +75,8 @@ The head of the new aviation division should purchase:
 
 The notebook that contains the project can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/Aviation_Data.ipynb'>notebook</a>
 
+The tableau used for visualization can be found here: <a href='https://public.tableau.com/app/profile/stephen.oseko/viz/AviationAccidents_17178732778030/AccidentAnalysis'>tableau</a>
+
 The images from EDA can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/tree/main/Images'>images</a>
 
 The data used for the project can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/AviationData.csv'>data</a>
