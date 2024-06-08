@@ -8,9 +8,9 @@ Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_med
 
 ### Problem Statement
 
-Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft.
+A company is expanding in to new industries to diversify its portfolio. They are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft.
 
-You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
+The task is determining which aircrafts are the lowest risk for the company to start this new business endeavor. The findings should then be translated into actionable insights to help decide which aircraft to purchase.
 
 
 ### Goal
@@ -39,9 +39,9 @@ The data used is from the National Transportation Safety Board that includes avi
  
 ## 2. Data Preparation
 
-Uniformity - Handling Missing Values
+Uniformity - Ensures Consistent Data Representation
 
-Consistency - Ensuring the columns have same format
+Consistency - Eliminates Discrepancies
 
 Completeness - Ensure the dataset has no missing values
 
@@ -79,4 +79,4 @@ The images from EDA can be found here: <a href='https://github.com/Voste2024/Avi
 
 The data used for the project can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/AviationData.csv'>data</a>
 
-The presentation for this project can be found here: and the video presentation is here: 
+The presentation for this project can be found here:<a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/Aviation%20Accident%20Analysis.pdf'>slides pdf</a> and the video presentation is here: 
