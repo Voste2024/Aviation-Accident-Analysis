@@ -73,5 +73,10 @@ The head of the new aviation division should purchase:
  
  # Repository Guide
 
+The notebook that contains the project can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/Aviation_Data.ipynb'>notebook</a>
+
 The images from EDA can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/tree/main/Images'>images</a>
 
+The data used for the project can be found here: <a href='https://github.com/Voste2024/Aviation-Accident-Analysis/blob/main/AviationData.csv'>data</a>
+
+The presentation for this project can be found here: and the video presentation is here: 
