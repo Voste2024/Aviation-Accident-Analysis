@@ -1,6 +1,6 @@
 # Aviation Accident Analysis
 
-![pascal-meier-UYiesSO4FiM-unsplash.jpg](attachment:pascal-meier-UYiesSO4FiM-unsplash.jpg)
+![pascal-meier-UYiesSO4FiM-unsplash.jpg](attachment:pascal-meier-UYiesSO4FiM-unsplash (1).jpg)
 
 Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
